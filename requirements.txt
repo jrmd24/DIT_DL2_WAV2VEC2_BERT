@@ -1,0 +1,13 @@
+wandb
+transformers
+numpy 
+pandas 
+openpyxl 
+torch 
+torchvision 
+torchaudio
+gradio
+seaborn
+scikit-learn
+soundfile
+matplotlib
